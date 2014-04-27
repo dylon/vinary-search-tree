@@ -1,0 +1,3 @@
+[submodule "coffeescript"]
+	path = coffeescript
+	url = git@github.com:dylon/vinary-search-tree-coffeescript.git
